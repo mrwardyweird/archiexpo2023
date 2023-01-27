@@ -83,16 +83,6 @@ require_once "nav.php";
                                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam quas dicta
                                         labore eaque incidunt, animi magnam ex nobis odit? Iure ex repellendus aliquid
                                         laboriosam officiis magni laborum sint facilis unde.
-
-                                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora quia ullam molestias impedit id atque provident ipsam ex autem maiores ipsa consequuntur neque commodi facere quam harum, debitis rem.
-
-                                        <br>
-
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas quos explicabo ullam debitis possimus, qui repellendus? Maiores, voluptatem consequuntur, ratione vel voluptas doloremque a quia molestias, nemo magni ipsum mollitia.
-                                    </p><br>
-                                    <p class="card-text">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam quas dicta
-                                        labore eaque incidunt,
                                     </p>
                                     <a href="#" class="btn btn-outline-light">Details</a>
                                 </div>
