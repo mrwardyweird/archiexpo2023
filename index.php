@@ -202,12 +202,19 @@ require_once "nav.php";
     </section>
 
     <div id="ASF-modal" class="modal" active="false">
-        <div class="modal-content">
+        <div class="modal-content ASF">
             <span class="close">&times;</span>
             <div class="menu">
-                <div class="container-timeline" id="timeline">
+                <div class="container-timeline ASF-scroll" id="timeline">
                     <div class="top-section">
+                        <h1>About Us</h1>
+
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
+
                         <h1>ASF Timeline</h1>
+                    </div>
+                    <div>
+
                     </div>
                     <div class="timeline">
                         <div class="line"></div>
@@ -251,17 +258,32 @@ require_once "nav.php";
                             </div>
                         </div>
                     </div>
+
+                    <div class="bottom-section">
+                        <h1>Contact Us</h1>
+                        <p>
+                            Line : @249oymhc
+                            <br>
+                            Instagram : @asf_petra
+                            <br>
+                            Email : architecturalsketchfair@gmail.com
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 
     <div id="Archfest-modal" class="modal" active="false">
-        <div class="modal-content">
+        <div class="modal-content Archfest">
             <span class="close">&times;</span>
             <div class="menu">
-                <div class="container-timeline" id="timeline">
+                <div class="container-timeline Archfest-scroll" id="timeline">
                     <div class="top-section">
+                        <h1>About Us</h1>
+
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
+
                         <h1>ARCHFEST Timeline</h1>
                     </div>
                     <div class="timeline">
@@ -346,17 +368,34 @@ require_once "nav.php";
                             </div>
                         </div>
                     </div>
+
+                    <div class="bottom-section">
+                        <h1>Contact Us</h1>
+                        <p>
+                            Line :
+                            <br>
+                            sebastianus553(Sebastianus E.) anggarda.hanjaya (Anggarda)
+                            <br>
+                            Instagram : @archfest_petra
+                            <br>
+                            Email : architecturefest@gmail.com
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 
     <div id="GADA-modal" class="modal" active="false">
-        <div class="modal-content">
+        <div class="modal-content GADA">
             <span class="close">&times;</span>
             <div class="menu">
-                <div class="container-timeline" id="timeline">
+                <div class="container-timeline GADA-scroll" id="timeline">
                     <div class="top-section">
+                        <h1>About Us</h1>
+
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
+
                         <h1>GADA Timeline</h1>
                     </div>
                     <div class="timeline">
@@ -442,17 +481,32 @@ require_once "nav.php";
                         </div>
 
                     </div>
+
+                    <div class="bottom-section">
+                        <h1>Contact Us</h1>
+                        <p>
+                            Line : @008jdrhf @bella1632 @celine161
+                            <br>
+                            Instagram : @gada_petra
+                            <br>
+                            Email : gada.petra@gmail.com
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 
     <div id="SANKLTI-modal" class="modal" active="false">
-        <div class="modal-content">
+        <div class="modal-content SANKLTI">
             <span class="close">&times;</span>
             <div class="menu">
-                <div class="container-timeline" id="timeline">
+                <div class="container-timeline SANKLTI-scroll" id="timeline">
                     <div class="top-section">
+                        <h1>About Us</h1>
+
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
+
                         <h1>SANKLTI Timeline</h1>
                     </div>
                     <div class="timeline">
@@ -587,17 +641,32 @@ require_once "nav.php";
                             </div>
                         </div>
                     </div>
+
+                    <div class="bottom-section">
+                        <h1>Contact Us</h1>
+                        <p>
+                            Line : @661jhbeu
+                            <br>
+                            Instagram : @san_petra
+                            <br>
+                            Email : sanukpetra@gmail.com
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 
     <div id="EXPO-modal" class="modal" active="false">
-        <div class="modal-content">
+        <div class="modal-content EXPO">
             <span class="close">&times;</span>
             <div class="menu">
-                <div class="container-timeline" id="timeline">
+                <div class="container-timeline EXPO-scroll" id="timeline">
                     <div class="top-section">
+                        <h1>About Us</h1>
+
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
+
                         <h1>EXPO Timeline</h1>
                     </div>
                     <div class="timeline">
@@ -687,6 +756,17 @@ require_once "nav.php";
                                     Day 3 ( Bedah Karya dan Awarding Night ) Architecture Expo 2022/2023
                             </div>
                         </div>
+                    </div>
+
+                    <div class="bottom-section">
+                        <h1>Contact Us</h1>
+                        <p>
+                            Line : @469wztcb
+                            <br>
+                            Instagram : @archiexpo.ukp
+                            <br>
+                            Email : archiexpopcu@gmail.com
+                        </p>
                     </div>
                 </div>
             </div>
@@ -899,8 +979,6 @@ require_once "nav.php";
             // })
 
         })
-
-
     </script>
 </body>
 
