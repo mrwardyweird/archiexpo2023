@@ -186,8 +186,8 @@ require_once "nav.php";
     </section>
 
     <section class='footer'>
-        <h2>SPONSORED BY</h2>
-        <div class="sponsor">
+        <h2 class='my-5'>SPONSORED BY</h2>
+        <div class="sponsor mb-5">
             <div class="isi">
                 <img class="image" src="assets/Group 1.png" alt="">
                 <img class="image" src="assets/city.png" alt="">
@@ -196,8 +196,8 @@ require_once "nav.php";
                 <img class="image" src="assets/POSTER ASF.png" alt="">
             </div>
         </div>
-        <div class="copyright">
-            <h2>IT ARCHIEXPO &copy; 2023</h2>
+        <div class="copyright mb-5">
+            <h5>IT ARCHIEXPO &copy; 2023</h5>
         </div>
     </section>
 
