@@ -21,6 +21,7 @@ require_once "nav.php";
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="card.css">
     <link rel="stylesheet" href="contact.css">
+    <link rel="stylesheet" href="footer.css">
 </head>
 
 <body>
@@ -75,7 +76,7 @@ require_once "nav.php";
                             <div class="col md-6 lg-12" style="margin-top: 10vh;">
                                 <img src="assets/LOGO ARCHIEXPO.png" width="400vh" alt="" id="logocard">
                             </div>
-                            <div class="col md-6 lg-12" >
+                            <div class="col md-6 lg-12">
                                 <div class="card-body">
                                     <span class="card-number fw-bold">About Us</span>
                                     <h2 class="card-title mb-4" style="margin-top: 12vh;">ARCHIEXPO 2023</h2>
@@ -83,6 +84,10 @@ require_once "nav.php";
                                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam quas dicta
                                         labore eaque incidunt, animi magnam ex nobis odit? Iure ex repellendus aliquid
                                         laboriosam officiis magni laborum sint facilis unde.
+                                    </p><br>
+                                    <p class="card-text">
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam quas dicta
+                                        labore eaque incidunt,
                                     </p>
                                     <a href="#" class="btn btn-outline-light">Details</a>
                                 </div>
@@ -143,23 +148,24 @@ require_once "nav.php";
     </section>
 
     <section class="dark">
-
         <h1>Contact Us</h1>
         <!-- <p>Nesciunt, distinctio itaque quam labore corporis architecto minima. Odit expedita incidunt ea corporis sunt
             molestiae neque earum, eos accusamus voluptatum nam dolorum alias repellendus cupiditate? Impedit delectus
             architecto laborum deserunt.</p> -->
         <div class="wrapper" style="margin-top: 50px;">
             <div class="button">
-                <a href="https://liff.line.me/1645278921-kWRPP32q/?accountId=469wztcb" style="text-decoration: none; color: black" target="_blank">
+                <a href="https://liff.line.me/1645278921-kWRPP32q/?accountId=469wztcb"
+                    style="text-decoration: none; color: black" target="_blank">
                     <div class="icon">
                         <i class="fa-brands fa-line"></i>
                     </div>
                     <span>Line</span>
                 </a>
             </div>
-            
+
             <div class="button">
-                <a href="https://instagram.com/archiexpo.ukp?igshid=NDk5N2NlZjQ=" style="text-decoration: none; color: black" target="_blank">
+                <a href="https://instagram.com/archiexpo.ukp?igshid=NDk5N2NlZjQ="
+                    style="text-decoration: none; color: black" target="_blank">
                     <div class="icon">
                         <i class="fa-brands fa-instagram"></i>
                     </div>
@@ -175,6 +181,23 @@ require_once "nav.php";
                     <span>Location</span>
                 </a>
             </div>
+        </div>
+
+    </section>
+
+    <section class='footer'>
+        <h2>SPONSORED BY</h2>
+        <div class="sponsor">
+            <div class="isi">
+                <img class="image" src="assets/Group 1.png" alt="">
+                <img class="image" src="assets/city.png" alt="">
+                <img class="image" src="assets/bg 1.png" alt="">
+                <img class="image" src="assets/bg.png" alt="">
+                <img class="image" src="assets/POSTER ASF.png" alt="">
+            </div>
+        </div>
+        <div class="copyright">
+            <h2>IT ARCHIEXPO &copy; 2023</h2>
         </div>
     </section>
 
@@ -674,51 +697,56 @@ require_once "nav.php";
 
 
 
-    <script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lettering.js/0.6.1/jquery.lettering.min.js" integrity="sha512-VJ/iYbiu1eJ6yLimfTi65t2R9TFcG5D9X8ZCfbbEFhTfPnKJh8byoKXEawi5ScJZBYL1eiirL1+MczZDx0Tz9Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js" integrity="sha512-f8mwTB+Bs8a5c46DEm7HQLcJuHMBaH/UFlcgyetMqqkvTcYg4g5VXsYR71b3qC82lZytjNYvBj2pf0VekA9/FQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://code.jquery.com/jquery-3.6.3.js"
+        integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lettering.js/0.6.1/jquery.lettering.min.js"
+        integrity="sha512-VJ/iYbiu1eJ6yLimfTi65t2R9TFcG5D9X8ZCfbbEFhTfPnKJh8byoKXEawi5ScJZBYL1eiirL1+MczZDx0Tz9Q=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"
+        integrity="sha512-f8mwTB+Bs8a5c46DEm7HQLcJuHMBaH/UFlcgyetMqqkvTcYg4g5VXsYR71b3qC82lZytjNYvBj2pf0VekA9/FQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script>
         var windowsize = 2715;
         var windowsize3 = 360;
         // alert(windowsize);
         // alert($(window).width())
 
-        $(document).ready(function() {
+        $(document).ready(function () {
             $('.text h1 span,.bottom_text h5').lettering();
             var tl = gsap.timeline();
 
 
-            $('#ASF-btn').click(function() {
+            $('#ASF-btn').click(function () {
                 $("#ASF-modal").css("display", "block");
                 $("body").css("overflow-y", "hidden");
             });
 
-            $('#Archfest-btn').click(function() {
+            $('#Archfest-btn').click(function () {
                 $("#Archfest-modal").css("display", "block");
                 $("body").css("overflow-y", "hidden");
             });
 
-            $('#GADA-btn').click(function() {
+            $('#GADA-btn').click(function () {
                 $("#GADA-modal").css("display", "block");
                 $("body").css("overflow-y", "hidden");
             });
 
-            $('#SANKLTI-btn').click(function() {
+            $('#SANKLTI-btn').click(function () {
                 $("#SANKLTI-modal").css("display", "block");
                 $("body").css("overflow-y", "hidden");
             });
 
-            $('#EXPO-btn').click(function() {
+            $('#EXPO-btn').click(function () {
                 $("#EXPO-modal").css("display", "block");
                 $("body").css("overflow-y", "hidden");
             });
 
-            $('.close').click(function() {
+            $('.close').click(function () {
                 $(".modal").css("display", "none");
                 $("body").css("overflow-y", "visible");
             });
 
-            $(document).click(function(e) {
+            $(document).click(function (e) {
                 if (e.target == $("#ASF-modal")) {
                     $("#ASF-modal").css("display", "none");
                 }
@@ -728,13 +756,13 @@ require_once "nav.php";
             //         modal.style.display = "none";
             //     }
             // }
-            
+
             tl.from(".img_group img", {
-                    x: 1100,
-                    duration: 1,
-                    opacity: 0,
-                    stagger: .14
-                })
+                x: 1100,
+                duration: 1,
+                opacity: 0,
+                stagger: .14
+            })
                 .to(".img_group img", {
                     x: 1100,
                     margin: '0 -140px 0',
@@ -745,11 +773,11 @@ require_once "nav.php";
                 }, '-=1.4')
 
             tl.from(".text h1 span", {
-                    x: -20,
-                    duration: 1,
-                    opacity: 0,
-                    stagger: .1
-                })
+                x: -20,
+                duration: 1,
+                opacity: 0,
+                stagger: .1
+            })
                 // .from(".img_group img", {
                 //     x: 1100,
                 //     duration: 1,
@@ -782,8 +810,8 @@ require_once "nav.php";
                     stagger: .07
 
                 })
-            setTimeout(function() {
-                $(".arc").mouseover(function() {
+            setTimeout(function () {
+                $(".arc").mouseover(function () {
                     gsap.to(".img_group img", {
                         x: 100,
                         margin: '0 10px 0',
@@ -793,7 +821,7 @@ require_once "nav.php";
                         stagger: .14
                     })
                 })
-                $(".arc").mouseout(function() {
+                $(".arc").mouseout(function () {
                     gsap.to(".img_group img", {
                         x: 1100,
                         margin: '0 -140px 0',
@@ -809,7 +837,7 @@ require_once "nav.php";
             //     var windowsize2 = $(window).width();
             //     var check = Math.floor(Math.abs((windowsize - windowsize2) / 200))
             //     var check2 = Math.floor(Math.abs((windowsize2 - windowsize3) / 200))
-                
+
             //     if ((windowsize - windowsize2) > 0) {
             //         var curleft = $('.img_group').css("left");
             //         // alert(parseFloat(curleft)+40)
@@ -837,41 +865,43 @@ require_once "nav.php";
             //     }
             // })
 
-            
+
             // $(window).resize(function() {
             //     var windowsize2 = $(window).width();
             //     // alert(windowsize - windowsize2)
             //     var check = Math.floor(Math.abs((windowsize - windowsize2) / 200))
             //     var check2 = Math.floor(Math.abs((windowsize2 - windowsize3) / 200))
 
-                
-                
-                // if ((windowsize - windowsize2) > 0) {
-                //     var left = 28 - (check * 8);
-                //     var width = 80 + (check * 12);
-                //     var scale = 1.4 - (check * 2);
 
-                //     var nl = String(left + "vh");
-                //     var nw = String(width + "%");
-                //     var ns = String("scale(" + scale +")");
 
-                //     $('.img_group').css({"left": nl, "width": nw, "transfrom": ns});
-                // }
-                // else if ((windowsize - windowsize2) < 0) {
-                //     var left = -52 + (check2 * 8);
-                //     var width = 200 - (check2 * 9);
-                //     var scale = -18.6 + (check2 * 2);
+            // if ((windowsize - windowsize2) > 0) {
+            //     var left = 28 - (check * 8);
+            //     var width = 80 + (check * 12);
+            //     var scale = 1.4 - (check * 2);
 
-                //     var nl = String(left + "vh");
-                //     var nw = String(width + "%");
-                //     var ns = String("scale(" + scale +")");
+            //     var nl = String(left + "vh");
+            //     var nw = String(width + "%");
+            //     var ns = String("scale(" + scale +")");
 
-                //     $('.img_group').css({"left": nl, "width": nw, "transfrom": ns});
-                // }
+            //     $('.img_group').css({"left": nl, "width": nw, "transfrom": ns});
+            // }
+            // else if ((windowsize - windowsize2) < 0) {
+            //     var left = -52 + (check2 * 8);
+            //     var width = 200 - (check2 * 9);
+            //     var scale = -18.6 + (check2 * 2);
+
+            //     var nl = String(left + "vh");
+            //     var nw = String(width + "%");
+            //     var ns = String("scale(" + scale +")");
+
+            //     $('.img_group').css({"left": nl, "width": nw, "transfrom": ns});
+            // }
             // })
+
         })
 
-        
+
     </script>
 </body>
+
 </html>

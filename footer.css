@@ -1,0 +1,80 @@
+section.footer {
+  background-color: #23314f;
+  -webkit-box-shadow: 0px -4px 3px rgba(50, 50, 50, 0.75);
+  -moz-box-shadow: 0px -4px 3px rgba(50, 50, 50, 0.75);
+  box-shadow: 0px -4px 3px rgba(50, 50, 50, 0.75);
+  padding: 30px 0px;
+  min-height: auto;
+  width: 100%;
+}
+div.isi {
+  position: relative;
+  width: 500px;
+  height: 250px;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  overflow: hidden;
+}
+.sponsor {
+  margin-bottom: 30px;
+}
+.isi img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.isi .image {
+  position: absolute;
+  opacity: 0;
+  transform: scale(1);
+}
+.isi .image:nth-child(1) {
+  z-index: 5;
+  animation: fade 30s linear infinite;
+}
+.isi .image:nth-child(2) {
+  z-index: 4;
+  animation: fade 30s 6s linear infinite;
+}
+.isi .image:nth-child(3) {
+  z-index: 3;
+  animation: fade 30s 12s linear infinite;
+}
+.isi .image:nth-child(4) {
+  z-index: 2;
+  animation: fade 30s 18s linear infinite;
+}
+.isi .image:nth-child(5) {
+  z-index: 1;
+  animation: fade 30s 24s linear infinite;
+}
+.isi:hover .image {
+  animation-play-state: paused;
+}
+@keyframes fade {
+  0% {
+    opacity: 0;
+    transform: scale(1);
+  }
+  5% {
+    opacity: 1;
+  }
+  20% {
+    opacity: 1;
+    transform: scale(1.1);
+  }
+  25% {
+    opacity: 0;
+    transform: scale(1.125);
+  }
+}
+
+@media screen and (max-width: 520px) {
+  div.sponsor {
+    width: 100%;
+  }
+  div.isi {
+    width: 90%;
+    margin-inline: auto;
+  }
+}
