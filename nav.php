@@ -186,9 +186,14 @@ session_start();
     <nav class="navbar navbar-expand-lg navbar-custom bg-transparent"
       style="background: #23314F; backdrop-filter: blur(0.2rem);">
       <div class="container-fluid">
-        <a class="navbar-brand" href="">
-          <img src="assets/LOGO ARCHIEXPO.png" width="50px" height="50px" alt="">
-        </a>
+        <div class="navbar-brand">
+            <a href="https://www.instagram.com/archiexpo.ukp/" target="_blank">
+                <img src="assets/LOGO ARCHIEXPO.png" width="50px" height="50px" alt="">
+            </a>
+            <a href="https://www.instagram.com/uk_petra/" target="_blank">
+                <img src="assets/ukp outline.png" width="60px" height="60px" alt="">
+            </a>
+        </div>
 
         <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
           data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -206,7 +211,7 @@ session_start();
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="#s-event" role="button">OUR
+              <a class="nav-link" href="#s-event" role="page">OUR
                 EVENTS</a>
             </li>
 

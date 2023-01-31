@@ -103,45 +103,47 @@ require_once "nav.php";
     <section class="dark" id="s-event">
 
         <h1>Events</h1>
-        <div class="d-flex flex-wrap justify-content-center event">
-            <div class="cardm">
-                <img src="assets/POSTER ASF.jpg" alt="">
-                <div class="content">
-                    <H1>ASF</H1>
-                    <button class="btn" id="ASF-btn"><a class="regist">More Information</a></button>
-                    <button class="btn"><a href="#" class="regist">Registration</a></button>
+        <div class="event-wrap">
+            <div class="d-flex flex-wrap justify-content-center event">
+                <div class="cardm">
+                    <img src="assets/POSTER ASF.jpg" alt="">
+                    <div class="content">
+                        <H1>ASF</H1>
+                        <button class="btn" id="ASF-btn"><a class="regist">More Information</a></button>
+                        <button class="btn"><a href="#" class="regist">Registration</a></button>
+                    </div>
                 </div>
-            </div>
-            <div class="cardm">
-                <img src="assets/Poster ARCHFEST .jpg" alt="">
-                <div class="content">
-                    <H1>ARCHFEST</H1>
-                    <button class="btn" id="Archfest-btn"><a class="regist">More Information</a></button>
-                    <button class="btn"><a href="#" class="regist">Registration</a></button>
+                <div class="cardm">
+                    <img src="assets/Poster ARCHFEST .jpg" alt="">
+                    <div class="content">
+                        <H1>ARCHFEST</H1>
+                        <button class="btn" id="Archfest-btn"><a class="regist">More Information</a></button>
+                        <button class="btn"><a href="#" class="regist">Registration</a></button>
+                    </div>
                 </div>
-            </div>
-            <div class="cardm">
-                <img src="assets/POSTER GADA 2023.jpg" alt="">
-                <div class="content">
-                    <H1>GADA</H1>
-                    <button class="btn" id="GADA-btn"><a class="regist">More Information</a></button>
-                    <button class="btn"><a href="#" class="regist">Registration</a></button>
+                <div class="cardm">
+                    <img src="assets/POSTER GADA 2023.jpg" alt="">
+                    <div class="content">
+                        <H1>GADA</H1>
+                        <button class="btn" id="GADA-btn"><a class="regist">More Information</a></button>
+                        <button class="btn"><a href="#" class="regist">Registration</a></button>
+                    </div>
                 </div>
-            </div>
-            <div class="cardm">
-                <img src="assets/POSTER LKTI 2023.jpg" alt="">
-                <div class="content">
-                    <H1>SANKLTI</H1>
-                    <button class="btn" id="SANKLTI-btn"><a class="regist">More Information</a></button>
-                    <button class="btn"><a href="#" class="regist">Registration</a></button>
+                <div class="cardm">
+                    <img src="assets/POSTER LKTI 2023.jpg" alt="">
+                    <div class="content">
+                        <H1>SANKLTI</H1>
+                        <button class="btn" id="SANKLTI-btn"><a class="regist">More Information</a></button>
+                        <button class="btn"><a href="#" class="regist">Registration</a></button>
+                    </div>
                 </div>
-            </div>
-            <div class="cardm">
-                <img src="assets/poster archiexpo FIX.jpg" alt="">
-                <div class="content">
-                    <H1>EXPO</H1>
-                    <button class="btn" id="EXPO-btn"><a class="regist">More Information</a></button>
-                    <button class="btn"><a href="#" class="regist">Registration</a></button>
+                <div class="cardm">
+                    <img src="assets/poster archiexpo FIX.jpg" alt="">
+                    <div class="content">
+                        <H1>EXPO</H1>
+                        <button class="btn" id="EXPO-btn"><a class="regist">More Information</a></button>
+                        <button class="btn"><a href="#" class="regist">Registration</a></button>
+                    </div>
                 </div>
             </div>
         </div>
@@ -174,11 +176,11 @@ require_once "nav.php";
             </div>
 
             <div class="button">
-                <a href="" style="text-decoration: none; color: black" target="_blank">
+                <a href="https://www.tiktok.com/@archiexpo.ukp?_t=8ZQy2eEak0A&_r=1" style="text-decoration: none; color: black" target="_blank">
                     <div class="icon">
-                        <i class="fa-solid fa-map"></i>
+                        <i class="fa-brands fa-tiktok"></i>
                     </div>
-                    <span>Location</span>
+                    <span>TikTok</span>
                 </a>
             </div>
         </div>
@@ -193,7 +195,7 @@ require_once "nav.php";
                 <img class="image" src="assets/city.png" alt="">
                 <img class="image" src="assets/bg 1.png" alt="">
                 <img class="image" src="assets/bg.png" alt="">
-                <img class="image" src="assets/POSTER ASF.png" alt="">
+                <img class="image" src="assets/POSTER ASF.jpg" alt="">
             </div>
         </div>
         <div class="copyright mb-5">

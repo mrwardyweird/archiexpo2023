@@ -28,7 +28,7 @@
 }
 
 .button:nth-child(3):hover .icon {
-    background: #1da1f2;
+    background: #000000;
 }
 
 .button:nth-child(1) span {
@@ -40,7 +40,7 @@
 }
 
 .button:nth-child(3) span {
-    color: #1da1f2;
+    color: #000000;
 }
 
 .button .icon {
@@ -88,35 +88,80 @@
 @keyframes color1 {
     0% {
         background: #fff;
+        color: #000000;
     }
-    50% {
+    10% {
+        background: #fff;
+        color: #000000;
+    }
+    40% {
         background: #4CC764;
+        color: #fff;
+    }
+    60% {
+        background: #4CC764;
+        color: #fff;
+    }
+    90% {
+        background: #fff;
+        color: #000000;
     }
     100% {
         background: #fff;
+        color: #000000;
     }
 }
 
 @keyframes color2 {
     0% {
         background: #fff;
+        color: #000000;
     }
-    50% {
+    10% {
+        background: #fff;
+        color: #000000;
+    }
+    40% {
         background: #e1306c;
+        color: #fff;
+    }
+    60% {
+        background: #e1306c;
+        color: #fff;
+    }
+    90% {
+        background: #fff;
+        color: #000000;
     }
     100% {
         background: #fff;
+        color: #000000;
     }
 }
 
 @keyframes color3 {
     0% {
         background: #fff;
+        color: #000000;
     }
-    50% {
-        background: #1da1f2;
+    10% {
+        background: #fff;
+        color: #000000;
+    }
+    40% {
+        background: #000000;
+        color: #fff;
+    }
+    60% {
+        background: #000000;
+        color: #fff;
+    }
+    90% {
+        background: #fff;
+        color: #000000;
     }
     100% {
         background: #fff;
+        color: #000000;
     }
 }

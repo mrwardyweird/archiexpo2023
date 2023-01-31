@@ -44,6 +44,10 @@ section {
     padding-right: 31px;
 }
 
+.event-wrap {
+    max-width: 199vh;
+}
+
 .blue {
     background: #3c31dd !important;
 }

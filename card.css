@@ -35,6 +35,11 @@ div.event {
 .cardm:hover .content {
   right: 0;
 }
+
+.content-timeline {
+  margin-top: -145px;
+}
+
 .regist {
   font-weight: 700;
 }
