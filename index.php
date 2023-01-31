@@ -50,10 +50,10 @@ require_once "nav.php";
         </div>
         <div class="img_group">
             <div class="img_group_inner">
-                <img src="assets/Poster ARCHFEST .PNG" alt="">
-                <img src="assets/POSTER ASF.png" alt="">
-                <img src="assets/POSTER GADA 2023.png" alt="">
-                <img src="assets/POSTER LKTI 2023.png" alt="">
+                <img src="assets/Poster ARCHFEST .jpg" alt="">
+                <img src="assets/POSTER ASF.jpg" alt="">
+                <img src="assets/POSTER GADA 2023.jpg" alt="">
+                <img src="assets/POSTER LKTI 2023.jpg" alt="">
                 <img src="assets/poster archiexpo FIX.jpg" alt="">
             </div>
         </div>
@@ -105,7 +105,7 @@ require_once "nav.php";
         <h1>Events</h1>
         <div class="d-flex flex-wrap justify-content-center event">
             <div class="cardm">
-                <img src="assets/POSTER ASF.png" alt="">
+                <img src="assets/POSTER ASF.jpg" alt="">
                 <div class="content">
                     <H1>ASF</H1>
                     <button class="btn" id="ASF-btn"><a class="regist">More Information</a></button>
@@ -113,7 +113,7 @@ require_once "nav.php";
                 </div>
             </div>
             <div class="cardm">
-                <img src="assets/Poster ARCHFEST .PNG" alt="">
+                <img src="assets/Poster ARCHFEST .jpg" alt="">
                 <div class="content">
                     <H1>ARCHFEST</H1>
                     <button class="btn" id="Archfest-btn"><a class="regist">More Information</a></button>
@@ -121,7 +121,7 @@ require_once "nav.php";
                 </div>
             </div>
             <div class="cardm">
-                <img src="assets/POSTER GADA 2023.png" alt="">
+                <img src="assets/POSTER GADA 2023.jpg" alt="">
                 <div class="content">
                     <H1>GADA</H1>
                     <button class="btn" id="GADA-btn"><a class="regist">More Information</a></button>
@@ -129,7 +129,7 @@ require_once "nav.php";
                 </div>
             </div>
             <div class="cardm">
-                <img src="assets/POSTER LKTI 2023.png" alt="">
+                <img src="assets/POSTER LKTI 2023.jpg" alt="">
                 <div class="content">
                     <H1>SANKLTI</H1>
                     <button class="btn" id="SANKLTI-btn"><a class="regist">More Information</a></button>
