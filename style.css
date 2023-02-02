@@ -590,6 +590,7 @@ background: linear-gradient(135deg, rgba(255,208,146,1) 0%, rgba(254,203,137,1) 
 }
 
 .menu {
+    
     display: flex;
     flex-direction: column;
     justify-content: center;
