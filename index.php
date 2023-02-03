@@ -156,8 +156,7 @@ require_once "nav.php";
             architecto laborum deserunt.</p> -->
         <div class="wrapper" style="margin-top: 50px;">
             <div class="button">
-                <a href="https://liff.line.me/1645278921-kWRPP32q/?accountId=469wztcb"
-                    style="text-decoration: none; color: black" target="_blank">
+                <a href="https://liff.line.me/1645278921-kWRPP32q/?accountId=469wztcb" style="text-decoration: none; color: black" target="_blank">
                     <div class="icon">
                         <i class="fa-brands fa-line"></i>
                     </div>
@@ -166,8 +165,7 @@ require_once "nav.php";
             </div>
 
             <div class="button">
-                <a href="https://instagram.com/archiexpo.ukp?igshid=NDk5N2NlZjQ="
-                    style="text-decoration: none; color: black" target="_blank">
+                <a href="https://instagram.com/archiexpo.ukp?igshid=NDk5N2NlZjQ=" style="text-decoration: none; color: black" target="_blank">
                     <div class="icon">
                         <i class="fa-brands fa-instagram"></i>
                     </div>
@@ -204,184 +202,191 @@ require_once "nav.php";
     </section>
 
     <div id="ASF-modal" class="modal" active="false">
-        <div class="modal-content ASF">
-            <span class="close">&times;</span>
-            <div class="menu">
-                <div class="container-timeline ASF-scroll" id="timeline">
-                    <div class="top-section">
-                        <h1>About Us</h1>
+        <div class="modal-contents ASF">
+            <div class="bg-ASF"></div>
+            <div class="contents">
+                <span class="close">&times;</span>
+                <div class="menu">
+                    <div class="container-timeline ASF-scroll" id="timeline">
+                        <div class="top-section">
+                            <h1>About Us</h1>
 
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
 
-                        <h1>ASF Timeline</h1>
-                    </div>
-                    <div>
+                            <h1>ASF Timeline</h1>
+                        </div>
+                        <div>
 
-                    </div>
-                    <div class="timeline">
-                        <div class="line"></div>
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>December 16, 2022 - January 8, 2023</h2>
-                                <p>
-                                    EARLY BIRD REGISTRATION
-                                </p>
+                        </div>
+                        <div class="timeline">
+                            <div class="line"></div>
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>December 16, 2022 - January 8, 2023</h2>
+                                    <p>
+                                        EARLY BIRD REGISTRATION
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>January 9, 2023 - January 31, 2023</h2>
+                                    <p>
+                                        NORMAL REGISTRATION
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>February 1, 2023 - March 3, 2023</h2>
+                                    <p>
+                                        PROJECT SUBMISSION
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>May 14, 2023</h2>
+                                    <p>
+                                        AWARDING NIGHT
+                                    </p>
+                                </div>
                             </div>
                         </div>
 
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>January 9, 2023 - January 31, 2023</h2>
-                                <p>
-                                    NORMAL REGISTRATION
-                                </p>
-                            </div>
+                        <div class="bottom-section">
+                            <h1>Contact Us</h1>
+                            <p>
+                                Line : @249oymhc
+                                <br>
+                                Instagram : @asf_petra
+                                <br>
+                                Email : architecturalsketchfair@gmail.com
+                            </p>
                         </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>February 1, 2023 - March 3, 2023</h2>
-                                <p>
-                                    PROJECT SUBMISSION
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>May 14, 2023</h2>
-                                <p>
-                                    AWARDING NIGHT
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="bottom-section">
-                        <h1>Contact Us</h1>
-                        <p>
-                            Line : @249oymhc
-                            <br>
-                            Instagram : @asf_petra
-                            <br>
-                            Email : architecturalsketchfair@gmail.com
-                        </p>
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
 
     <div id="Archfest-modal" class="modal" active="false">
-        <div class="modal-content Archfest">
-            <span class="close">&times;</span>
-            <div class="menu">
-                <div class="container-timeline Archfest-scroll" id="timeline">
-                    <div class="top-section">
-                        <h1>About Us</h1>
+        <div class="modal-contents Archfest">
+            <div class="bg-Archfest"></div>
+            <div class="contents">
+                <span class="close">&times;</span>
+                <div class="menu">
+                    <div class="container-timeline Archfest-scroll" id="timeline">
+                        <div class="top-section">
+                            <h1>About Us</h1>
 
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
 
-                        <h1>ARCHFEST Timeline</h1>
-                    </div>
-                    <div class="timeline">
-                        <div class="line"></div>
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>December 19, 2022 - January 31, 2022</h2>
-                                <p>
-                                    Pendaftaran Early Bird Architecture Festival Ke-16
-                                </p>
+                            <h1>ARCHFEST Timeline</h1>
+                        </div>
+                        <div class="timeline">
+                            <div class="line"></div>
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>December 19, 2022 - January 31, 2022</h2>
+                                    <p>
+                                        Pendaftaran Early Bird Architecture Festival Ke-16
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>January 1, 2023 - January 31, 2023</h2>
+                                    <p>
+                                        Pendaftaran Normal Architecture Festival Ke-16
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>January 1, 2023 - Februari 11, 2023</h2>
+                                    <p>
+                                        Pengumpulan Karya (Online) Architecture Festival Ke-16
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>February 21, 2023</h2>
+                                    <p>
+                                        Penjurian Tertutup Architecture Festival Ke-16
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>February 23, 2023</h2>
+                                    <p>
+                                        Pengumuman Top 25 Architecture Festival Ke-16
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>February 25, 2023</h2>
+                                    <p>
+                                        Pengumuman Top 5 Architecture Festival Ke-16
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>March 11, 2023</h2>
+                                    <p>
+                                        Presentasi Final Architecture festival Ke-16
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>May 14, 2023</h2>
+                                    <p>
+                                        Pengumuman Pemenang Architecture Festival Ke-16
+                                    </p>
+                                </div>
                             </div>
                         </div>
 
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>January 1, 2023 - January 31, 2023</h2>
-                                <p>
-                                    Pendaftaran Normal Architecture Festival Ke-16
-                                </p>
-                            </div>
+                        <div class="bottom-section">
+                            <h1>Contact Us</h1>
+                            <p>
+                                Line :
+                                <br>
+                                sebastianus553(Sebastianus E.) anggarda.hanjaya (Anggarda)
+                                <br>
+                                Instagram : @archfest_petra
+                                <br>
+                                Email : architecturefest@gmail.com
+                            </p>
                         </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>January 1, 2023 - Februari 11, 2023</h2>
-                                <p>
-                                    Pengumpulan Karya (Online) Architecture Festival Ke-16
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>February 21, 2023</h2>
-                                <p>
-                                    Penjurian Tertutup Architecture Festival Ke-16
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>February 23, 2023</h2>
-                                <p>
-                                    Pengumuman Top 25 Architecture Festival Ke-16
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>February 25, 2023</h2>
-                                <p>
-                                    Pengumuman Top 5 Architecture Festival Ke-16
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>March 11, 2023</h2>
-                                <p>
-                                    Presentasi Final Architecture festival Ke-16
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>May 14, 2023</h2>
-                                <p>
-                                    Pengumuman Pemenang Architecture Festival Ke-16
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="bottom-section">
-                        <h1>Contact Us</h1>
-                        <p>
-                            Line :
-                            <br>
-                            sebastianus553(Sebastianus E.) anggarda.hanjaya (Anggarda)
-                            <br>
-                            Instagram : @archfest_petra
-                            <br>
-                            Email : architecturefest@gmail.com
-                        </p>
                     </div>
                 </div>
             </div>
@@ -389,110 +394,113 @@ require_once "nav.php";
     </div>
 
     <div id="GADA-modal" class="modal" active="false">
-        <div class="modal-content GADA">
-            <span class="close">&times;</span>
-            <div class="menu">
-                <div class="container-timeline GADA-scroll" id="timeline">
-                    <div class="top-section">
-                        <h1>About Us</h1>
+        <div class="modal-contents GADA">
+            <div class="bg-GADA"></div>
+            <div class="contents">
+                <span class="close">&times;</span>
+                <div class="menu">
+                    <div class="container-timeline GADA-scroll" id="timeline">
+                        <div class="top-section">
+                            <h1>About Us</h1>
 
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
 
-                        <h1>GADA Timeline</h1>
-                    </div>
-                    <div class="timeline">
-                        <div class="line"></div>
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>December 19, 2022 - January 8, 2023</h2>
-                                <p>
-                                    ONLINE REGISTRATION (EARLY BIRD)
-                                </p>
+                            <h1>GADA Timeline</h1>
+                        </div>
+                        <div class="timeline">
+                            <div class="line"></div>
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>December 19, 2022 - January 8, 2023</h2>
+                                    <p>
+                                        ONLINE REGISTRATION (EARLY BIRD)
+                                    </p>
+                                </div>
                             </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>January 9, 2023 - February 5, 2023</h2>
+                                    <p>
+                                        ONLINE REGISTRATION (NORMAL)
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>January 16, 2023 - February 11, 2023</h2>
+                                    <p>
+                                        FINAL SUBMISSION
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>February 17, 2023</h2>
+                                    <p>
+                                        CLOSSED ASSESSMENT
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>February 25, 2023</h2>
+                                    <p>
+                                        TOP 10 ANNOUNCEMENT
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>February 21, 2023</h2>
+                                    <p>
+                                        TOP 30 ANNOUNCEMENT
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>March 11, 2023</h2>
+                                    <p>
+                                        FINAL ROUND
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>May 14, 2023</h2>
+                                    <p>
+                                        BEDAH KARYA & ANNOUNCEMENT
+                                    </p>
+                                </div>
+                            </div>
+
                         </div>
 
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>January 9, 2023 - February 5, 2023</h2>
-                                <p>
-                                    ONLINE REGISTRATION (NORMAL)
-                                </p>
-                            </div>
+                        <div class="bottom-section">
+                            <h1>Contact Us</h1>
+                            <p>
+                                Line : @008jdrhf @bella1632 @celine161
+                                <br>
+                                Instagram : @gada_petra
+                                <br>
+                                Email : gada.petra@gmail.com
+                            </p>
                         </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>January 16, 2023 - February 11, 2023</h2>
-                                <p>
-                                    FINAL SUBMISSION
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>February 17, 2023</h2>
-                                <p>
-                                    CLOSSED ASSESSMENT
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>February 25, 2023</h2>
-                                <p>
-                                    TOP 10 ANNOUNCEMENT
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>February 21, 2023</h2>
-                                <p>
-                                    TOP 30 ANNOUNCEMENT
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>March 11, 2023</h2>
-                                <p>
-                                    FINAL ROUND
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>May 14, 2023</h2>
-                                <p>
-                                    BEDAH KARYA & ANNOUNCEMENT
-                                </p>
-                            </div>
-                        </div>
-
-                    </div>
-
-                    <div class="bottom-section">
-                        <h1>Contact Us</h1>
-                        <p>
-                            Line : @008jdrhf @bella1632 @celine161
-                            <br>
-                            Instagram : @gada_petra
-                            <br>
-                            Email : gada.petra@gmail.com
-                        </p>
                     </div>
                 </div>
             </div>
@@ -500,275 +508,282 @@ require_once "nav.php";
     </div>
 
     <div id="SANKLTI-modal" class="modal" active="false">
-        <div class="modal-content SANKLTI">
-            <span class="close">&times;</span>
-            <div class="menu">
-                <div class="container-timeline SANKLTI-scroll" id="timeline">
-                    <div class="top-section">
-                        <h1>About Us</h1>
+        <div class="modal-contents SANKLTI">
+            <div class="bg-SANKLTI"></div>
+            <div class="contents">
+                <span class="close">&times;</span>
+                <div class="menu">
+                    <div class="container-timeline SANKLTI-scroll" id="timeline">
+                        <div class="top-section">
+                            <h1>About Us</h1>
 
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
 
-                        <h1>SANKLTI Timeline</h1>
-                    </div>
-                    <div class="timeline">
-                        <div class="line"></div>
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>December 19, 2022 - January 6, 2023</h2>
-                                <p>
-                                    EARLY BIRD REGISTRATION LKTI
-                                </p>
+                            <h1>SANKLTI Timeline</h1>
+                        </div>
+                        <div class="timeline">
+                            <div class="line"></div>
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>December 19, 2022 - January 6, 2023</h2>
+                                    <p>
+                                        EARLY BIRD REGISTRATION LKTI
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>January 7, 2023 - February 1, 2023</h2>
+                                    <p>
+                                        NORMAL REGISTRATION LKTI
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>December 22, 2023 - February 4, 2023</h2>
+                                    <p>
+                                        PENGUMPULAN ABSTRAK
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>February 2, 2023 - February 11, 2023</h2>
+                                    <p>
+                                        PENJUARIAN ABSTRAK
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>February 13, 2023</h2>
+                                    <p>
+                                        PENGUMUMAN LOLOS
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>February 17, 2023 - March 10, 2023</h2>
+                                    <p>
+                                        PENGUMPULAN FULL PAPER
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>March 1, 2023 - March 12, 2023</h2>
+                                    <p>
+                                        EARLY BIRD REGISTRATION SAN
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>March 11, 2023 - March 20, 2023</h2>
+                                    <p>
+                                        PENJUARIAN TERTUTUP
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>March 13, 2023 - April 11, 2023</h2>
+                                    <p>
+                                        NORMAL REGISTRATION SAN
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>March 21, 2023</h2>
+                                    <p>
+                                        PENGUMUMAN FINALIS
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>April 15, 2023</h2>
+                                    <p>
+                                        SEMINAR ARSITEKTUR NASIONAL (7:45 - 11:15 WIB)
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>April 15, 2023</h2>
+                                    <p>
+                                        LOMBA KARYA TULIS ILMIAH (12.00 - 18:00 WIB)
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>May 14, 2023</h2>
+                                    <p>
+                                        PENGUMUMAN PEMENANG
+                                    </p>
+                                </div>
                             </div>
                         </div>
 
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>January 7, 2023 - February 1, 2023</h2>
-                                <p>
-                                    NORMAL REGISTRATION LKTI
-                                </p>
-                            </div>
+                        <div class="bottom-section">
+                            <h1>Contact Us</h1>
+                            <p>
+                                Line : @661jhbeu
+                                <br>
+                                Instagram : @san_petra
+                                <br>
+                                Email : sanukpetra@gmail.com
+                            </p>
                         </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>December 22, 2023 - February 4, 2023</h2>
-                                <p>
-                                    PENGUMPULAN ABSTRAK
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>February 2, 2023 - February 11, 2023</h2>
-                                <p>
-                                    PENJUARIAN ABSTRAK
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>February 13, 2023</h2>
-                                <p>
-                                    PENGUMUMAN LOLOS
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>February 17, 2023 - March 10, 2023</h2>
-                                <p>
-                                    PENGUMPULAN FULL PAPER
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>March 1, 2023 - March 12, 2023</h2>
-                                <p>
-                                    EARLY BIRD REGISTRATION SAN
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>March 11, 2023 - March 20, 2023</h2>
-                                <p>
-                                    PENJUARIAN TERTUTUP
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>March 13, 2023 - April 11, 2023</h2>
-                                <p>
-                                    NORMAL REGISTRATION SAN
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>March 21, 2023</h2>
-                                <p>
-                                    PENGUMUMAN FINALIS
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>April 15, 2023</h2>
-                                <p>
-                                    SEMINAR ARSITEKTUR NASIONAL (7:45 - 11:15 WIB)
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>April 15, 2023</h2>
-                                <p>
-                                    LOMBA KARYA TULIS ILMIAH (12.00 - 18:00 WIB)
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>May 14, 2023</h2>
-                                <p>
-                                    PENGUMUMAN PEMENANG
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="bottom-section">
-                        <h1>Contact Us</h1>
-                        <p>
-                            Line : @661jhbeu
-                            <br>
-                            Instagram : @san_petra
-                            <br>
-                            Email : sanukpetra@gmail.com
-                        </p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
 
     <div id="EXPO-modal" class="modal" active="false">
-        <div class="modal-content EXPO">
-            <span class="close">&times;</span>
-            <div class="menu">
-                <div class="container-timeline EXPO-scroll" id="timeline">
-                    <div class="top-section">
-                        <h1>About Us</h1>
+        <div class="modal-contents EXPO">
+            <div class="bg-EXPO"></div>
+            <div class="contents">
+                <span class="close">&times;</span>
+                <div class="menu">
+                    <div class="container-timeline EXPO-scroll" id="timeline">
+                        <div class="top-section">
+                            <h1>About Us</h1>
 
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
 
-                        <h1>EXPO Timeline</h1>
-                    </div>
-                    <div class="timeline">
-                        <div class="line"></div>
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>December 19, 2022 - January 31, 2023</h2>
-                                <p>
-                                    Open Registration Sayembara Desain Exhibition Architecture Expo 2022/2023
-                                </p>
+                            <h1>EXPO Timeline</h1>
+                        </div>
+                        <div class="timeline">
+                            <div class="line"></div>
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>December 19, 2022 - January 31, 2023</h2>
+                                    <p>
+                                        Open Registration Sayembara Desain Exhibition Architecture Expo 2022/2023
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>December 19, 2022 - January 31, 2023</h2>
+                                    <p>
+                                        Pengumpulan Karya Sayembara Desain Exhibition Architecture Expo 2022/2023
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>February 1, 2023</h2>
+                                    <p>
+                                        Penjurian Tertutup Sayembara Desain Exhibition Architecture Expo 2022/2023
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>February 4, 2023</h2>
+                                    <p>
+                                        Penjurian Terbuka Sayembara Desain Exhibition Architecture Expo 2022/2023
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>February 11, 2023</h2>
+                                    <p>
+                                        Pengumuman Sayembara Desain Exhibition Architecture Expo 2022/2023
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>March 6, 2023 - May 10, 2023</h2>
+                                    <p>
+                                        Open Registration Architalk Series and Workshop Architecture Expo 2022/2023 </p>
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>May 12, 2023</h2>
+                                    <p>
+                                        Day 1 ( Opening Ceremony, Seminar Arsitektur Nasional, LKTI x Expo )
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>May 13, 2023</h2>
+                                    <p>
+                                        Day 2 ( Bedah Karya dan Workshop ) Architecture Expo 2022/2023
+                                </div>
+                            </div>
+
+                            <div class="section">
+                                <div class="bead"></div>
+                                <div class="content-timeline">
+                                    <h2>May 14, 2023</h2>
+                                    <p>
+                                        Day 3 ( Bedah Karya dan Awarding Night ) Architecture Expo 2022/2023
+                                </div>
                             </div>
                         </div>
 
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>December 19, 2022 - January 31, 2023</h2>
-                                <p>
-                                    Pengumpulan Karya Sayembara Desain Exhibition Architecture Expo 2022/2023
-                                </p>
-                            </div>
+                        <div class="bottom-section">
+                            <h1>Contact Us</h1>
+                            <p>
+                                Line : @469wztcb
+                                <br>
+                                Instagram : @archiexpo.ukp
+                                <br>
+                                Email : archiexpopcu@gmail.com
+                            </p>
                         </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>February 1, 2023</h2>
-                                <p>
-                                    Penjurian Tertutup Sayembara Desain Exhibition Architecture Expo 2022/2023
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>February 4, 2023</h2>
-                                <p>
-                                    Penjurian Terbuka Sayembara Desain Exhibition Architecture Expo 2022/2023
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>February 11, 2023</h2>
-                                <p>
-                                    Pengumuman Sayembara Desain Exhibition Architecture Expo 2022/2023
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>March 6, 2023 - May 10, 2023</h2>
-                                <p>
-                                    Open Registration Architalk Series and Workshop Architecture Expo 2022/2023 </p>
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>May 12, 2023</h2>
-                                <p>
-                                    Day 1 ( Opening Ceremony, Seminar Arsitektur Nasional, LKTI x Expo )
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>May 13, 2023</h2>
-                                <p>
-                                    Day 2 ( Bedah Karya dan Workshop ) Architecture Expo 2022/2023
-                            </div>
-                        </div>
-
-                        <div class="section">
-                            <div class="bead"></div>
-                            <div class="content-timeline">
-                                <h2>May 14, 2023</h2>
-                                <p>
-                                    Day 3 ( Bedah Karya dan Awarding Night ) Architecture Expo 2022/2023
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="bottom-section">
-                        <h1>Contact Us</h1>
-                        <p>
-                            Line : @469wztcb
-                            <br>
-                            Instagram : @archiexpo.ukp
-                            <br>
-                            Email : archiexpopcu@gmail.com
-                        </p>
                     </div>
                 </div>
             </div>
@@ -779,56 +794,51 @@ require_once "nav.php";
 
 
 
-    <script src="https://code.jquery.com/jquery-3.6.3.js"
-        integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lettering.js/0.6.1/jquery.lettering.min.js"
-        integrity="sha512-VJ/iYbiu1eJ6yLimfTi65t2R9TFcG5D9X8ZCfbbEFhTfPnKJh8byoKXEawi5ScJZBYL1eiirL1+MczZDx0Tz9Q=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"
-        integrity="sha512-f8mwTB+Bs8a5c46DEm7HQLcJuHMBaH/UFlcgyetMqqkvTcYg4g5VXsYR71b3qC82lZytjNYvBj2pf0VekA9/FQ=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lettering.js/0.6.1/jquery.lettering.min.js" integrity="sha512-VJ/iYbiu1eJ6yLimfTi65t2R9TFcG5D9X8ZCfbbEFhTfPnKJh8byoKXEawi5ScJZBYL1eiirL1+MczZDx0Tz9Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js" integrity="sha512-f8mwTB+Bs8a5c46DEm7HQLcJuHMBaH/UFlcgyetMqqkvTcYg4g5VXsYR71b3qC82lZytjNYvBj2pf0VekA9/FQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script>
         var windowsize = 2715;
         var windowsize3 = 360;
         // alert(windowsize);
         // alert($(window).width())
 
-        $(document).ready(function () {
+        $(document).ready(function() {
             $('.text h1 span,.bottom_text h5').lettering();
             var tl = gsap.timeline();
 
 
-            $('#ASF-btn').click(function () {
+            $('#ASF-btn').click(function() {
                 $("#ASF-modal").css("display", "block");
                 $("body").css("overflow-y", "hidden");
             });
 
-            $('#Archfest-btn').click(function () {
+            $('#Archfest-btn').click(function() {
                 $("#Archfest-modal").css("display", "block");
                 $("body").css("overflow-y", "hidden");
             });
 
-            $('#GADA-btn').click(function () {
+            $('#GADA-btn').click(function() {
                 $("#GADA-modal").css("display", "block");
                 $("body").css("overflow-y", "hidden");
             });
 
-            $('#SANKLTI-btn').click(function () {
+            $('#SANKLTI-btn').click(function() {
                 $("#SANKLTI-modal").css("display", "block");
                 $("body").css("overflow-y", "hidden");
             });
 
-            $('#EXPO-btn').click(function () {
+            $('#EXPO-btn').click(function() {
                 $("#EXPO-modal").css("display", "block");
                 $("body").css("overflow-y", "hidden");
             });
 
-            $('.close').click(function () {
+            $('.close').click(function() {
                 $(".modal").css("display", "none");
                 $("body").css("overflow-y", "visible");
             });
 
-            $(document).click(function (e) {
+            $(document).click(function(e) {
                 if (e.target == $("#ASF-modal")) {
                     $("#ASF-modal").css("display", "none");
                 }
@@ -840,11 +850,11 @@ require_once "nav.php";
             // }
 
             tl.from(".img_group img", {
-                x: 1100,
-                duration: 1,
-                opacity: 0,
-                stagger: .14
-            })
+                    x: 1100,
+                    duration: 1,
+                    opacity: 0,
+                    stagger: .14
+                })
                 .to(".img_group img", {
                     x: 1100,
                     margin: '0 -140px 0',
@@ -855,11 +865,11 @@ require_once "nav.php";
                 }, '-=1.4')
 
             tl.from(".text h1 span", {
-                x: -20,
-                duration: 1,
-                opacity: 0,
-                stagger: .1
-            })
+                    x: -20,
+                    duration: 1,
+                    opacity: 0,
+                    stagger: .1
+                })
                 // .from(".img_group img", {
                 //     x: 1100,
                 //     duration: 1,
@@ -892,8 +902,8 @@ require_once "nav.php";
                     stagger: .07
 
                 })
-            setTimeout(function () {
-                $(".arc").mouseover(function () {
+            setTimeout(function() {
+                $(".arc").mouseover(function() {
                     gsap.to(".img_group img", {
                         x: 100,
                         margin: '0 10px 0',
@@ -903,7 +913,7 @@ require_once "nav.php";
                         stagger: .14
                     })
                 })
-                $(".arc").mouseout(function () {
+                $(".arc").mouseout(function() {
                     gsap.to(".img_group img", {
                         x: 1100,
                         margin: '0 -140px 0',
