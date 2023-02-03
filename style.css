@@ -48,6 +48,18 @@ section {
     max-width: 199vh;
 }
 
+@media screen and (min-width: 2000px) {
+    .event-wrap {
+        max-width: 164vh;
+    }
+}
+
+@media screen and (min-width: 2389.9px) {
+    .event-wrap {
+        max-width: 130vh;
+    }
+}
+
 .blue {
     background: #3c31dd !important;
 }
