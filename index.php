@@ -25,19 +25,7 @@ require_once "nav.php";
 </head>
 
 <body>
-    <!-- <header>
-        <div class="logo">
-            <a href=""><img src="assets/LOGO ARCHIEXPO.png" width="50px" height="50px" alt=""></a>
-        </div>
-        <nav>
-            <ul>
-                <li><a>Home</a></li>
-                <li><a>Our Events</a></li>
-                <li><a>Registration</a></li>
-            </ul>
-        </nav>
-        
-    </header> -->
+
 
 
     <section class="content" style="margin-top: 20px; overflow-x: hidden;">
@@ -81,15 +69,8 @@ require_once "nav.php";
                                     <span class="card-number fw-bold">About Us</span>
                                     <h2 class="card-title mb-4" style="margin-top: 12vh;">ARCHIEXPO 2023</h2>
                                     <p class="card-text">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam quas dicta
-                                        labore eaque incidunt, animi magnam ex nobis odit? Iure ex repellendus aliquid
-                                        laboriosam officiis magni laborum sint facilis unde.
-                                    </p><br>
-                                    <p class="card-text">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam quas dicta
-                                        labore eaque incidunt,
+                                    The Architecture Expo 2023 Design Competition is a competition held by Architecture Expo to produce unique, interesting and fascinating exhibition designs. This national level competition has been held year after year by HIMAARTRA. With the theme of this year's contest, "Sustainable Architecture: Road to Utopia", the participants were invited to be aware of the importance of sustainable elements in their designs. In addition to the participants designing the exhibition, we want them to take home some important lessons that they can apply in each of their designs
                                     </p>
-                                    <a href="#" class="btn btn-outline-light">Details</a>
                                 </div>
                             </div>
                         </div>
@@ -110,7 +91,7 @@ require_once "nav.php";
                     <div class="content">
                         <H1>ASF</H1>
                         <button class="btn" id="ASF-btn"><a class="regist">More Information</a></button>
-                        <button class="btn"><a href="#" class="regist">Registration</a></button>
+                        <button class="btn"><a href="http://petra.id/pendaftaranASF2023" class="regist">Registration</a></button>
                     </div>
                 </div>
                 <div class="cardm">
@@ -118,7 +99,7 @@ require_once "nav.php";
                     <div class="content">
                         <H1>ARCHFEST</H1>
                         <button class="btn" id="Archfest-btn"><a class="regist">More Information</a></button>
-                        <button class="btn"><a href="#" class="regist">Registration</a></button>
+                        <button class="btn"><a href="http://petra.id/NormalRegistrationArchfest2023" class="regist">Registration</a></button>
                     </div>
                 </div>
                 <div class="cardm">
@@ -126,7 +107,7 @@ require_once "nav.php";
                     <div class="content">
                         <H1>GADA</H1>
                         <button class="btn" id="GADA-btn"><a class="regist">More Information</a></button>
-                        <button class="btn"><a href="#" class="regist">Registration</a></button>
+                        <button class="btn"><a href="https://petra.id/RegistrationGADA2023" class="regist">Registration</a></button>
                     </div>
                 </div>
                 <div class="cardm">
@@ -134,7 +115,7 @@ require_once "nav.php";
                     <div class="content">
                         <H1>SANKLTI</H1>
                         <button class="btn" id="SANKLTI-btn"><a class="regist">More Information</a></button>
-                        <button class="btn"><a href="#" class="regist">Registration</a></button>
+                        <button class="btn"><a href="https://linktr.ee/SANXLKTI2023" class="regist">Registration</a></button>
                     </div>
                 </div>
                 <div class="cardm">
@@ -142,7 +123,7 @@ require_once "nav.php";
                     <div class="content">
                         <H1>EXPO</H1>
                         <button class="btn" id="EXPO-btn"><a class="regist">More Information</a></button>
-                        <button class="btn"><a href="#" class="regist">Registration</a></button>
+                        <button class="btn"><a href="https://linktr.ee/archiexpopcu" class="regist">Registration</a></button>
                     </div>
                 </div>
             </div>
@@ -211,7 +192,10 @@ require_once "nav.php";
                         <div class="top-section">
                             <h1>About Us</h1>
 
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
+                            <p>Architectural Sketch Fair is a National Architectural Sketch competition where the participant are required to think, 
+                                and sharpen their skill in sketch. This year’s Architectural Sketch Fair or better known as ASF comes up with theme
+                                 “ A Notion For Substantial Change”.
+                                  In hope that with this theme the colleger will gain the ambitious to compete and criticize about the existing problem in a building. </p>
 
                             <h1>ASF Timeline</h1>
                         </div>
@@ -288,7 +272,14 @@ require_once "nav.php";
                         <div class="top-section">
                             <h1>About Us</h1>
 
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
+                            <p>Architecture Festival or usually known as ARCHFEST is an international architectural design competition where each year the participants are challenged to create 
+                                innovative solutions to solve problems within the scope of the competition theme. This year's Architecture festival theme “Building Society” highlights the benefits
+                                 of having a calculated floor plan on a multi dwelling unit that can have  a positive impact on how the society within that building is created. For example, 
+                                 the use of a courtyard or community center within that multi dwelling unit can elevate the connectivity relation between occupants.  
+                                 Besides the occupants, the building itself must be well planned, where the usage of sustainable material is also needed to create a sustainable building design 
+                                 to emphasize a utopian environment within that building. Thus, this theme strives to increase the participants knowledge and understanding towards the potential 
+                                 of a well planned and calculated floor planning, material,
+                                 and the usage of rooms/area in a building design.</p>
 
                             <h1>ARCHFEST Timeline</h1>
                         </div>
@@ -403,7 +394,12 @@ require_once "nav.php";
                         <div class="top-section">
                             <h1>About Us</h1>
 
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
+                            <p>Geest Van De Architectuur (GADA) is an International Photography Competition. This competition may serve as a reference for developing
+                                 sustainable architectural designs ideas, as well as a means to learn good architectural photography techniques. Through this year's theme,
+                                  "URBAN's OASE in Frame", it is hoped that the participants will attain knowledge in how to create a "Green Building" concept that
+                                   have a positive impact to the surrounding environment while they practice their architecture photography skill. Geest Van De Architectuur 
+                                   can be a forum for Architecture Students to compete in honing their photography skills and providing a better understanding regarding the
+                                   buildings around them.</p>
 
                             <h1>GADA Timeline</h1>
                         </div>
@@ -517,7 +513,12 @@ require_once "nav.php";
                         <div class="top-section">
                             <h1>About Us</h1>
 
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
+                            <p>Lomba Karya Tulis Ilmiah or usually known as LKTI, is an annual scientific paper competition where participants get 
+                                the opportunity to present their innovations and discoveries regarding architectural priciples in the form of a scientific research paper.
+                                 This year, LKTI came back with a topic surrounding the impact of construction towards this world, with the theme of "Prosperity or Survival?:
+                                  Preventing World's Destruction Through Architecture". Participants are allowed to chose between 4 sub theme: Society, Environment, Crime and Security,
+                                   and Urban Planning. This year's theme aim for it's participant to understand and to find a solution regarding the impact of mega construction towards 
+                                   the world, therefore creating a better world for the generation to come.</p>
 
                             <h1>SANKLTI Timeline</h1>
                         </div>
@@ -681,7 +682,11 @@ require_once "nav.php";
                         <div class="top-section">
                             <h1>About Us</h1>
 
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas sint laboriosam saepe maiores blanditiis dicta commodi magni quos possimus. Similique quis vero beatae alias assumenda fuga excepturi consequuntur asperiores veniam.</p>
+                            <p>The Architecture Expo 2023 Design Competition is a competition held by Architecture Expo to produce unique, interesting and fascinating 
+                                exhibition designs. This national level competition has been held year after year by HIMAARTRA. With the theme of this year's contest,
+                                 "Sustainable Architecture: Road to Utopia", the participants were invited to be aware of the importance of sustainable elements in their designs.
+                                  In addition to the participants designing the exhibition, we want them to take home some important lessons that they can apply in each 
+                                  of their designs</p>
 
                             <h1>EXPO Timeline</h1>
                         </div>

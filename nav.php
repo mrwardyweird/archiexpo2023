@@ -219,11 +219,11 @@ session_start();
               <a class="nav-link dropdown-toggle navbar-to-about" role="button" data-bs-toggle="dropdown"
                 aria-expanded="false">REGISTRATION</a>
               <ul class="dropdown-menu" id="regist">
-                <li><a class="dropdown-item" href="#"> REGIST SAYEMBARA</a></li>
-                <li><a class="dropdown-item" href="#">REGIST Archfest</a></li>
-                <li><a class="dropdown-item" href="#">REGIST ASF</a></li>
-                <li><a class="dropdown-item" href="#">REGIST GADA</a></li>
-                <li><a class="dropdown-item" href="#">REGIST LKTI</a></li>
+                <li><a class="dropdown-item" href="https://linktr.ee/archiexpopcu"> REGIST SAYEMBARA</a></li>
+                <li><a class="dropdown-item" href="http://petra.id/NormalRegistrationArchfest2023">REGIST Archfest</a></li>
+                <li><a class="dropdown-item" href="http://petra.id/pendaftaranASF2023">REGIST ASF</a></li>
+                <li><a class="dropdown-item" href="https://petra.id/RegistrationGADA2023">REGIST GADA</a></li>
+                <li><a class="dropdown-item" href="https://linktr.ee/SANXLKTI2023">REGIST LKTI</a></li>
               </ul>
             </li>
           </ul>
