@@ -1,6 +1,6 @@
 @font-face {
     font-family: a1;
-    src: url(assets/Khepri/TTF/Khepri.ttf);
+    src: url(assets/Khepri/TTF/Khepri.ttf) format("opentype");
 }
 
 *{
