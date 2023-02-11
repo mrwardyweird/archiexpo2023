@@ -66,8 +66,8 @@ require_once "nav.php";
                             </div>
                             <div class="col md-6 lg-12">
                                 <div class="card-body">
-                                    <span class="card-number fw-bold">About Us</span>
-                                    <h2 class="card-title mb-4" style="margin-top: 12vh;">ARCHIEXPO 2023</h2>
+                                    <span class="card-number fw-bold" style="font-family: a1; letter-spacing: 1px;">About Us</span>
+                                    <h2 class="card-title mb-4" style="margin-top: 12vh; font-family: a1; letter-spacing: 2px;">ARCHIEXPO 2023</h2>
                                     <p class="card-text">
                                     The Architecture Expo 2023 Design Competition is a competition held by Architecture Expo to produce unique, interesting and fascinating exhibition designs. This national level competition has been held year after year by HIMAARTRA. With the theme of this year's contest, "Sustainable Architecture: Road to Utopia", the participants were invited to be aware of the importance of sustainable elements in their designs. In addition to the participants designing the exhibition, we want them to take home some important lessons that they can apply in each of their designs
                                     </p>
@@ -83,7 +83,7 @@ require_once "nav.php";
 
     <section class="dark" id="s-event">
 
-        <h1>Events</h1>
+        <h1 style="font-family: a1;">Events</h1>
         <div class="event-wrap">
             <div class="d-flex flex-wrap justify-content-center event">
                 <div class="cardm">
@@ -131,7 +131,7 @@ require_once "nav.php";
     </section>
 
     <section class="dark">
-        <h1>Contact Us</h1>
+        <h1 style="font-family: a1;">Contact Us</h1>
         <!-- <p>Nesciunt, distinctio itaque quam labore corporis architecto minima. Odit expedita incidunt ea corporis sunt
             molestiae neque earum, eos accusamus voluptatum nam dolorum alias repellendus cupiditate? Impedit delectus
             architecto laborum deserunt.</p> -->
@@ -167,7 +167,7 @@ require_once "nav.php";
     </section>
 
     <section class='footer'>
-        <h2 class='my-5'>SPONSORED BY</h2>
+        <h2 class='my-5' style="font-family: a1;">SPONSORED BY</h2>
         <div class="sponsor mb-5">
             <div class="isi">
                 <img class="image" src="assets/Group 1.png" alt="">
@@ -178,7 +178,9 @@ require_once "nav.php";
             </div>
         </div>
         <div class="copyright mb-5">
-            <h5>IT ARCHIEXPO &copy; 2023</h5>
+        
+        
+            <h5 style="font-family: a1; letter-spacing: 1px;font-size: 10px;">&copy; IT ARCHIEXPO 2023</h5>
         </div>
     </section>
 

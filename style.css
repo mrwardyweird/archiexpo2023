@@ -1,8 +1,14 @@
+@font-face {
+    font-family: a1;
+    src: url(assets/Khepri/TTF/Khepri.ttf);
+}
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     outline: none;
+    /* font-family: a1; */
 }
 
 html {
@@ -224,6 +230,7 @@ nav ul li a:hover:before{
     text-transform: uppercase;
     text-align: left;
     cursor: pointer;
+    font-family: a1;
 }
 .title .arc{
     position: relative;
@@ -250,7 +257,9 @@ nav ul li a:hover:before{
     width: 100%;
 }
 .bottom_text h5{
+    font-family: a1;
     font-size: 1.8vh;
+    letter-spacing: 1px;
     font-weight: 400;
     text-transform: uppercase;
 }
@@ -309,6 +318,11 @@ nav ul li a:hover:before{
     top: -1rem !important;
     right: 2.5rem;
 }
+
+.card-text {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .btn{
     border-radius: 2rem;
 }
