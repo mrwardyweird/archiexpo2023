@@ -89,7 +89,7 @@ require_once "nav.php";
                 <div class="cardm">
                     <img src="assets/POSTER ASF.jpg" alt="">
                     <div class="content">
-                        <H1>ASF</H1>
+                        <H1 style="font-family: a1;">ASF</H1>
                         <button class="btn" id="ASF-btn"><a class="regist">More Information</a></button>
                         <button class="btn"><a href="http://petra.id/pendaftaranASF2023" class="regist">Registration</a></button>
                     </div>
@@ -97,7 +97,7 @@ require_once "nav.php";
                 <div class="cardm">
                     <img src="assets/Poster ARCHFEST .jpg" alt="">
                     <div class="content">
-                        <H1>ARCHFEST</H1>
+                        <H1 style="font-family: a1;">ARCHFEST</H1>
                         <button class="btn" id="Archfest-btn"><a class="regist">More Information</a></button>
                         <button class="btn"><a href="http://petra.id/NormalRegistrationArchfest2023" class="regist">Registration</a></button>
                     </div>
@@ -105,7 +105,7 @@ require_once "nav.php";
                 <div class="cardm">
                     <img src="assets/POSTER GADA 2023.jpg" alt="">
                     <div class="content">
-                        <H1>GADA</H1>
+                        <H1 style="font-family: a1;">GADA</H1>
                         <button class="btn" id="GADA-btn"><a class="regist">More Information</a></button>
                         <button class="btn"><a href="https://petra.id/RegistrationGADA2023" class="regist">Registration</a></button>
                     </div>
@@ -113,7 +113,7 @@ require_once "nav.php";
                 <div class="cardm">
                     <img src="assets/POSTER LKTI 2023.jpg" alt="">
                     <div class="content">
-                        <H1>SANKLTI</H1>
+                        <H1 style="font-family: a1;">SANKLTI</H1>
                         <button class="btn" id="SANKLTI-btn"><a class="regist">More Information</a></button>
                         <button class="btn"><a href="https://linktr.ee/SANXLKTI2023" class="regist">Registration</a></button>
                     </div>
@@ -121,7 +121,7 @@ require_once "nav.php";
                 <div class="cardm">
                     <img src="assets/poster archiexpo FIX.jpg" alt="">
                     <div class="content">
-                        <H1>EXPO</H1>
+                        <H1 style="font-family: a1;">EXPO</H1>
                         <button class="btn" id="EXPO-btn"><a class="regist">More Information</a></button>
                         <button class="btn"><a href="https://linktr.ee/archiexpopcu" class="regist">Registration</a></button>
                     </div>
