@@ -17,6 +17,8 @@ div.isi {
 }
 .sponsor {
   margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
 }
 .isi img {
   width: 100%;

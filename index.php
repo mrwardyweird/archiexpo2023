@@ -66,10 +66,20 @@ require_once "nav.php";
                             </div>
                             <div class="col md-6 lg-12">
                                 <div class="card-body">
-                                    <span class="card-number fw-bold" style="font-family: a1; letter-spacing: 1px;">About Us</span>
-                                    <h2 class="card-title mb-4" style="margin-top: 12vh; font-family: a1; letter-spacing: 2px;">ARCHIEXPO 2023</h2>
+                                    <span class="card-number fw-bold"
+                                        style="font-family: a1; letter-spacing: 1px;">About Us</span>
+                                    <h2 class="card-title mb-4"
+                                        style="margin-top: 12vh; font-family: a1; letter-spacing: 2px;">ARCHIEXPO 2023
+                                    </h2>
                                     <p class="card-text">
-                                    The Architecture Expo 2023 Design Competition is a competition held by Architecture Expo to produce unique, interesting and fascinating exhibition designs. This national level competition has been held year after year by HIMAARTRA. With the theme of this year's contest, "Sustainable Architecture: Road to Utopia", the participants were invited to be aware of the importance of sustainable elements in their designs. In addition to the participants designing the exhibition, we want them to take home some important lessons that they can apply in each of their designs
+                                        The Architecture Expo 2023 Design Competition is a competition held by
+                                        Architecture Expo to produce unique, interesting and fascinating exhibition
+                                        designs. This national level competition has been held year after year by
+                                        HIMAARTRA. With the theme of this year's contest, "Sustainable Architecture:
+                                        Road to Utopia", the participants were invited to be aware of the importance of
+                                        sustainable elements in their designs. In addition to the participants designing
+                                        the exhibition, we want them to take home some important lessons that they can
+                                        apply in each of their designs
                                     </p>
                                 </div>
                             </div>
@@ -91,7 +101,8 @@ require_once "nav.php";
                     <div class="content">
                         <H1 style="font-family: a1;">ASF</H1>
                         <button class="btn" id="ASF-btn"><a class="regist">More Information</a></button>
-                        <button class="btn"><a href="http://petra.id/pendaftaranASF2023" class="regist">Registration</a></button>
+                        <button class="btn"><a href="http://petra.id/pendaftaranASF2023"
+                                class="regist">Registration</a></button>
                     </div>
                 </div>
                 <div class="cardm">
@@ -99,7 +110,8 @@ require_once "nav.php";
                     <div class="content">
                         <H1 style="font-family: a1;">ARCHFEST</H1>
                         <button class="btn" id="Archfest-btn"><a class="regist">More Information</a></button>
-                        <button class="btn"><a href="http://petra.id/NormalRegistrationArchfest2023" class="regist">Registration</a></button>
+                        <button class="btn"><a href="http://petra.id/NormalRegistrationArchfest2023"
+                                class="regist">Registration</a></button>
                     </div>
                 </div>
                 <div class="cardm">
@@ -107,7 +119,8 @@ require_once "nav.php";
                     <div class="content">
                         <H1 style="font-family: a1;">GADA</H1>
                         <button class="btn" id="GADA-btn"><a class="regist">More Information</a></button>
-                        <button class="btn"><a href="https://petra.id/RegistrationGADA2023" class="regist">Registration</a></button>
+                        <button class="btn"><a href="https://petra.id/RegistrationGADA2023"
+                                class="regist">Registration</a></button>
                     </div>
                 </div>
                 <div class="cardm">
@@ -115,7 +128,8 @@ require_once "nav.php";
                     <div class="content">
                         <H1 style="font-family: a1;">SANKLTI</H1>
                         <button class="btn" id="SANKLTI-btn"><a class="regist">More Information</a></button>
-                        <button class="btn"><a href="https://linktr.ee/SANXLKTI2023" class="regist">Registration</a></button>
+                        <button class="btn"><a href="https://linktr.ee/SANXLKTI2023"
+                                class="regist">Registration</a></button>
                     </div>
                 </div>
                 <div class="cardm">
@@ -123,7 +137,8 @@ require_once "nav.php";
                     <div class="content">
                         <H1 style="font-family: a1;">EXPO</H1>
                         <button class="btn" id="EXPO-btn"><a class="regist">More Information</a></button>
-                        <button class="btn"><a href="https://linktr.ee/archiexpopcu" class="regist">Registration</a></button>
+                        <button class="btn"><a href="https://linktr.ee/archiexpopcu"
+                                class="regist">Registration</a></button>
                     </div>
                 </div>
             </div>
@@ -137,7 +152,8 @@ require_once "nav.php";
             architecto laborum deserunt.</p> -->
         <div class="wrapper" style="margin-top: 50px;">
             <div class="button">
-                <a href="https://liff.line.me/1645278921-kWRPP32q/?accountId=469wztcb" style="text-decoration: none; color: black" target="_blank">
+                <a href="https://liff.line.me/1645278921-kWRPP32q/?accountId=469wztcb"
+                    style="text-decoration: none; color: black" target="_blank">
                     <div class="icon">
                         <i class="fa-brands fa-line"></i>
                     </div>
@@ -146,7 +162,8 @@ require_once "nav.php";
             </div>
 
             <div class="button">
-                <a href="https://instagram.com/archiexpo.ukp?igshid=NDk5N2NlZjQ=" style="text-decoration: none; color: black" target="_blank">
+                <a href="https://instagram.com/archiexpo.ukp?igshid=NDk5N2NlZjQ="
+                    style="text-decoration: none; color: black" target="_blank">
                     <div class="icon">
                         <i class="fa-brands fa-instagram"></i>
                     </div>
@@ -155,7 +172,8 @@ require_once "nav.php";
             </div>
 
             <div class="button">
-                <a href="https://www.tiktok.com/@archiexpo.ukp?_t=8ZQy2eEak0A&_r=1" style="text-decoration: none; color: black" target="_blank">
+                <a href="https://www.tiktok.com/@archiexpo.ukp?_t=8ZQy2eEak0A&_r=1"
+                    style="text-decoration: none; color: black" target="_blank">
                     <div class="icon">
                         <i class="fa-brands fa-tiktok"></i>
                     </div>
@@ -167,19 +185,27 @@ require_once "nav.php";
     </section>
 
     <section class='footer'>
-        <h2 class='my-5' style="font-family: a1;">SPONSORED BY</h2>
-        <div class="sponsor mb-5">
-            <div class="isi">
-                <img class="image" src="assets/Group 1.png" alt="">
-                <img class="image" src="assets/city.png" alt="">
-                <img class="image" src="assets/bg 1.png" alt="">
-                <img class="image" src="assets/bg.png" alt="">
-                <img class="image" src="assets/POSTER ASF.jpg" alt="">
+        <div class="row">
+            <div class="col-lg-6"
+                style="color: #23314f; -webkit-user-select: none;-ms-user-select: none;user-select: none">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium aliquam quidem modi iste ipsum
+                tempore eaque temporibus accusantium, adipisci aliquid! Eveniet praesentium officiis dicta. Architecto
+                nobis placeat ullam vitae consequatur?
+            </div>
+            <div class="col-lg-6">
+                <h2 class='my-5 text-center' style="font-family: a1; ">SPONSORED BY</h2>
+                <div class="sponsor mb-5">
+                    <div class="isi">
+                        <img class="image" src="assets/Group 1.png" alt="">
+                        <img class="image" src="assets/city.png" alt="">
+                        <img class="image" src="assets/bg 1.png" alt="">
+                        <img class="image" src="assets/bg.png" alt="">
+                        <img class="image" src="assets/POSTER ASF.jpg" alt="">
+                    </div>
+                </div>
             </div>
         </div>
         <div class="copyright mb-5">
-        
-        
             <h5 style="font-family: a1; letter-spacing: 1px;font-size: 10px;">&copy; IT ARCHIEXPO 2023</h5>
         </div>
     </section>
@@ -194,10 +220,13 @@ require_once "nav.php";
                         <div class="top-section">
                             <h1>About Us</h1>
 
-                            <p>Architectural Sketch Fair is a National Architectural Sketch competition where the participant are required to think, 
-                                and sharpen their skill in sketch. This year’s Architectural Sketch Fair or better known as ASF comes up with theme
-                                 “ A Notion For Substantial Change”.
-                                  In hope that with this theme the colleger will gain the ambitious to compete and criticize about the existing problem in a building. </p>
+                            <p>Architectural Sketch Fair is a National Architectural Sketch competition where the
+                                participant are required to think,
+                                and sharpen their skill in sketch. This year’s Architectural Sketch Fair or better known
+                                as ASF comes up with theme
+                                “ A Notion For Substantial Change”.
+                                In hope that with this theme the colleger will gain the ambitious to compete and
+                                criticize about the existing problem in a building. </p>
 
                             <h1>ASF Timeline</h1>
                         </div>
@@ -274,14 +303,20 @@ require_once "nav.php";
                         <div class="top-section">
                             <h1>About Us</h1>
 
-                            <p>Architecture Festival or usually known as ARCHFEST is an international architectural design competition where each year the participants are challenged to create 
-                                innovative solutions to solve problems within the scope of the competition theme. This year's Architecture festival theme “Building Society” highlights the benefits
-                                 of having a calculated floor plan on a multi dwelling unit that can have  a positive impact on how the society within that building is created. For example, 
-                                 the use of a courtyard or community center within that multi dwelling unit can elevate the connectivity relation between occupants.  
-                                 Besides the occupants, the building itself must be well planned, where the usage of sustainable material is also needed to create a sustainable building design 
-                                 to emphasize a utopian environment within that building. Thus, this theme strives to increase the participants knowledge and understanding towards the potential 
-                                 of a well planned and calculated floor planning, material,
-                                 and the usage of rooms/area in a building design.</p>
+                            <p>Architecture Festival or usually known as ARCHFEST is an international architectural
+                                design competition where each year the participants are challenged to create
+                                innovative solutions to solve problems within the scope of the competition theme. This
+                                year's Architecture festival theme “Building Society” highlights the benefits
+                                of having a calculated floor plan on a multi dwelling unit that can have a positive
+                                impact on how the society within that building is created. For example,
+                                the use of a courtyard or community center within that multi dwelling unit can elevate
+                                the connectivity relation between occupants.
+                                Besides the occupants, the building itself must be well planned, where the usage of
+                                sustainable material is also needed to create a sustainable building design
+                                to emphasize a utopian environment within that building. Thus, this theme strives to
+                                increase the participants knowledge and understanding towards the potential
+                                of a well planned and calculated floor planning, material,
+                                and the usage of rooms/area in a building design.</p>
 
                             <h1>ARCHFEST Timeline</h1>
                         </div>
@@ -396,12 +431,17 @@ require_once "nav.php";
                         <div class="top-section">
                             <h1>About Us</h1>
 
-                            <p>Geest Van De Architectuur (GADA) is an International Photography Competition. This competition may serve as a reference for developing
-                                 sustainable architectural designs ideas, as well as a means to learn good architectural photography techniques. Through this year's theme,
-                                  "URBAN's OASE in Frame", it is hoped that the participants will attain knowledge in how to create a "Green Building" concept that
-                                   have a positive impact to the surrounding environment while they practice their architecture photography skill. Geest Van De Architectuur 
-                                   can be a forum for Architecture Students to compete in honing their photography skills and providing a better understanding regarding the
-                                   buildings around them.</p>
+                            <p>Geest Van De Architectuur (GADA) is an International Photography Competition. This
+                                competition may serve as a reference for developing
+                                sustainable architectural designs ideas, as well as a means to learn good architectural
+                                photography techniques. Through this year's theme,
+                                "URBAN's OASE in Frame", it is hoped that the participants will attain knowledge in how
+                                to create a "Green Building" concept that
+                                have a positive impact to the surrounding environment while they practice their
+                                architecture photography skill. Geest Van De Architectuur
+                                can be a forum for Architecture Students to compete in honing their photography skills
+                                and providing a better understanding regarding the
+                                buildings around them.</p>
 
                             <h1>GADA Timeline</h1>
                         </div>
@@ -515,12 +555,17 @@ require_once "nav.php";
                         <div class="top-section">
                             <h1>About Us</h1>
 
-                            <p>Lomba Karya Tulis Ilmiah or usually known as LKTI, is an annual scientific paper competition where participants get 
-                                the opportunity to present their innovations and discoveries regarding architectural priciples in the form of a scientific research paper.
-                                 This year, LKTI came back with a topic surrounding the impact of construction towards this world, with the theme of "Prosperity or Survival?:
-                                  Preventing World's Destruction Through Architecture". Participants are allowed to chose between 4 sub theme: Society, Environment, Crime and Security,
-                                   and Urban Planning. This year's theme aim for it's participant to understand and to find a solution regarding the impact of mega construction towards 
-                                   the world, therefore creating a better world for the generation to come.</p>
+                            <p>Lomba Karya Tulis Ilmiah or usually known as LKTI, is an annual scientific paper
+                                competition where participants get
+                                the opportunity to present their innovations and discoveries regarding architectural
+                                priciples in the form of a scientific research paper.
+                                This year, LKTI came back with a topic surrounding the impact of construction towards
+                                this world, with the theme of "Prosperity or Survival?:
+                                Preventing World's Destruction Through Architecture". Participants are allowed to chose
+                                between 4 sub theme: Society, Environment, Crime and Security,
+                                and Urban Planning. This year's theme aim for it's participant to understand and to find
+                                a solution regarding the impact of mega construction towards
+                                the world, therefore creating a better world for the generation to come.</p>
 
                             <h1>SANKLTI Timeline</h1>
                         </div>
@@ -684,11 +729,15 @@ require_once "nav.php";
                         <div class="top-section">
                             <h1>About Us</h1>
 
-                            <p>The Architecture Expo 2023 Design Competition is a competition held by Architecture Expo to produce unique, interesting and fascinating 
-                                exhibition designs. This national level competition has been held year after year by HIMAARTRA. With the theme of this year's contest,
-                                 "Sustainable Architecture: Road to Utopia", the participants were invited to be aware of the importance of sustainable elements in their designs.
-                                  In addition to the participants designing the exhibition, we want them to take home some important lessons that they can apply in each 
-                                  of their designs</p>
+                            <p>The Architecture Expo 2023 Design Competition is a competition held by Architecture Expo
+                                to produce unique, interesting and fascinating
+                                exhibition designs. This national level competition has been held year after year by
+                                HIMAARTRA. With the theme of this year's contest,
+                                "Sustainable Architecture: Road to Utopia", the participants were invited to be aware of
+                                the importance of sustainable elements in their designs.
+                                In addition to the participants designing the exhibition, we want them to take home some
+                                important lessons that they can apply in each
+                                of their designs</p>
 
                             <h1>EXPO Timeline</h1>
                         </div>
@@ -801,51 +850,56 @@ require_once "nav.php";
 
 
 
-    <script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lettering.js/0.6.1/jquery.lettering.min.js" integrity="sha512-VJ/iYbiu1eJ6yLimfTi65t2R9TFcG5D9X8ZCfbbEFhTfPnKJh8byoKXEawi5ScJZBYL1eiirL1+MczZDx0Tz9Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js" integrity="sha512-f8mwTB+Bs8a5c46DEm7HQLcJuHMBaH/UFlcgyetMqqkvTcYg4g5VXsYR71b3qC82lZytjNYvBj2pf0VekA9/FQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://code.jquery.com/jquery-3.6.3.js"
+        integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lettering.js/0.6.1/jquery.lettering.min.js"
+        integrity="sha512-VJ/iYbiu1eJ6yLimfTi65t2R9TFcG5D9X8ZCfbbEFhTfPnKJh8byoKXEawi5ScJZBYL1eiirL1+MczZDx0Tz9Q=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"
+        integrity="sha512-f8mwTB+Bs8a5c46DEm7HQLcJuHMBaH/UFlcgyetMqqkvTcYg4g5VXsYR71b3qC82lZytjNYvBj2pf0VekA9/FQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script>
         var windowsize = 2715;
         var windowsize3 = 360;
         // alert(windowsize);
         // alert($(window).width())
 
-        $(document).ready(function() {
+        $(document).ready(function () {
             $('.text h1 span,.bottom_text h5').lettering();
             var tl = gsap.timeline();
 
 
-            $('#ASF-btn').click(function() {
+            $('#ASF-btn').click(function () {
                 $("#ASF-modal").css("display", "block");
                 $("body").css("overflow-y", "hidden");
             });
 
-            $('#Archfest-btn').click(function() {
+            $('#Archfest-btn').click(function () {
                 $("#Archfest-modal").css("display", "block");
                 $("body").css("overflow-y", "hidden");
             });
 
-            $('#GADA-btn').click(function() {
+            $('#GADA-btn').click(function () {
                 $("#GADA-modal").css("display", "block");
                 $("body").css("overflow-y", "hidden");
             });
 
-            $('#SANKLTI-btn').click(function() {
+            $('#SANKLTI-btn').click(function () {
                 $("#SANKLTI-modal").css("display", "block");
                 $("body").css("overflow-y", "hidden");
             });
 
-            $('#EXPO-btn').click(function() {
+            $('#EXPO-btn').click(function () {
                 $("#EXPO-modal").css("display", "block");
                 $("body").css("overflow-y", "hidden");
             });
 
-            $('.close').click(function() {
+            $('.close').click(function () {
                 $(".modal").css("display", "none");
                 $("body").css("overflow-y", "visible");
             });
 
-            $(document).click(function(e) {
+            $(document).click(function (e) {
                 if (e.target == $("#ASF-modal")) {
                     $("#ASF-modal").css("display", "none");
                 }
@@ -857,11 +911,11 @@ require_once "nav.php";
             // }
 
             tl.from(".img_group img", {
-                    x: 1100,
-                    duration: 1,
-                    opacity: 0,
-                    stagger: .14
-                })
+                x: 1100,
+                duration: 1,
+                opacity: 0,
+                stagger: .14
+            })
                 .to(".img_group img", {
                     x: 1100,
                     margin: '0 -140px 0',
@@ -872,11 +926,11 @@ require_once "nav.php";
                 }, '-=1.4')
 
             tl.from(".text h1 span", {
-                    x: -20,
-                    duration: 1,
-                    opacity: 0,
-                    stagger: .1
-                })
+                x: -20,
+                duration: 1,
+                opacity: 0,
+                stagger: .1
+            })
                 // .from(".img_group img", {
                 //     x: 1100,
                 //     duration: 1,
@@ -909,8 +963,8 @@ require_once "nav.php";
                     stagger: .07
 
                 })
-            setTimeout(function() {
-                $(".arc").mouseover(function() {
+            setTimeout(function () {
+                $(".arc").mouseover(function () {
                     gsap.to(".img_group img", {
                         x: 100,
                         margin: '0 10px 0',
@@ -920,7 +974,7 @@ require_once "nav.php";
                         stagger: .14
                     })
                 })
-                $(".arc").mouseout(function() {
+                $(".arc").mouseout(function () {
                     gsap.to(".img_group img", {
                         x: 1100,
                         margin: '0 -140px 0',
